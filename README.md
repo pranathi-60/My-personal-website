@@ -1,7 +1,6 @@
 # Personal Portfolio ⚡️ 
-> A clean, beautiful, responsive portfolio template for Software Developers!
+> A clean, beautiful, responsive portfolio template for students!
 
-> https://pranathiboggarapu.github.io
 
 ![GitHub stars](https://img.shields.io/github/stars/pranathiboggarapu/pranathiboggarapu.github.io) 
 ![GitHub forks](https://img.shields.io/github/forks/pranathiboggarapu/pranathiboggarapu.github.io)
